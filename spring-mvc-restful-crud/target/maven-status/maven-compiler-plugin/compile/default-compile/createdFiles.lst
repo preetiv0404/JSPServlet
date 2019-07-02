@@ -1,0 +1,3 @@
+com\preeti\spring\config\AppConfig.class
+com\preeti\spring\config\WebConfig.class
+com\preeti\spring\config\MyWebAppInitializer.class
